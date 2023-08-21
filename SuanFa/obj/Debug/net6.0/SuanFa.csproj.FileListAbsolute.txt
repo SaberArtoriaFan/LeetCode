@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\obj\Debug\net6.0\SuanFa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\obj\Debug\net6.0\SuanFa.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\obj\Debug\net6.0\SuanFa.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\obj\Debug\net6.0\SuanFa.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\bin\Debug\net6.0\SuanFa.exe
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\bin\Debug\net6.0\SuanFa.deps.json
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\bin\Debug\net6.0\SuanFa.runtimeconfig.json
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\bin\Debug\net6.0\SuanFa.dll
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\bin\Debug\net6.0\SuanFa.pdb
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\obj\Debug\net6.0\SuanFa.dll
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\obj\Debug\net6.0\refint\SuanFa.dll
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\obj\Debug\net6.0\SuanFa.pdb
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\obj\Debug\net6.0\SuanFa.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SuanFa\SuanFa\obj\Debug\net6.0\ref\SuanFa.dll
