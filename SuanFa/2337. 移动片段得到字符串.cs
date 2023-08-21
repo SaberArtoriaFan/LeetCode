@@ -15,6 +15,9 @@ namespace SuanFa
         //如果在移动字符串 start 中的片段任意次之后可以得到字符串 target ，返回 true ；否则，返回 false 。
         public class Solution
         {
+            //那么从左到右，L和R一定是一一对应的
+            //并且start中的L一定在target的右边或相等位置，R反之
+            //一一对应，并且确保LR数量一致，即可
             public bool CanChange(string start, string target)
             {
                 int n = start.Length;
