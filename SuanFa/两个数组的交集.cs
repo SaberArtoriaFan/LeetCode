@@ -40,6 +40,7 @@ namespace SuanFa
                 while (nums[left] <= pivot && left < right) left++;
                 Swap(nums, left, right);
             }
+            //结束时left一定等于right
             Swap(nums, start, left);
             QuickSort(nums, start, left - 1);
             QuickSort(nums, left + 1, end);
